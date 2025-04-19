@@ -1,6 +1,6 @@
-# Password Manager
+🔐 Simple Encrypted Desktop Password Manager
 
-A simple desktop application to store, manage, and generate passwords securely. Built with Python and PyQt6, and backed by a local SQLite database.
+A lightweight desktop password manager built with Python and PyQt6, featuring encrypted local storage using Fernet symmetric encryption.
 
 ## 🚀 Features
 
@@ -78,7 +78,7 @@ To create a standalone Windows executable of the application:
 
 ## 🛡️ Security Note
 
-This is a simple desktop password manager for local use only. **Passwords are stored unencrypted in the database.** For production-grade usage, consider implementing encryption and user authentication.
+This application uses AES encryption via the cryptography library to securely store passwords on disk. A randomly generated Fernet key is saved locally in a file. For improved security, especially for production usage, consider protecting the encryption key with a password-based key derivation function (KDF), and enhancing authentication mechanisms.
 
 ## 📄 License
 
