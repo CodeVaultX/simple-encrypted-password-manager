@@ -49,7 +49,7 @@ To create a standalone Windows executable of the application:
    pyinstaller --onefile --windowed  --icon=pass.ico Password_Manager.py
    ```
 
-3. After building, the executable file will be located in the `dist` folder as `main.exe`.
+3. After building, the executable file will be located in the `dist` folder as `Password_Manager.exe`.
 
 > **Note:**  
 > - Use `--windowed` to hide the terminal window (recommended for GUI apps).  
