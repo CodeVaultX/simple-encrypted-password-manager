@@ -7,7 +7,6 @@ A lightweight desktop password manager built with Python and PyQt6, featuring en
 - Save passwords with associated website and username
 - View all saved entries in a table
 - Delete individual entries
-- Generate secure random passwords
 - Simple and clean graphical interface
 
 ## 🖥️ Screenshot
