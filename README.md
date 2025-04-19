@@ -66,7 +66,7 @@ If you don’t want to build the executable yourself, a pre-built Windows versio
 
 Simply download and run the .exe file — no installation or Python required.
 
-    ⚠️ Note: Make sure to keep Password_Manager.exe and the created passwords.enc file in the same folder for proper functionality.
+⚠️ Note: Make sure to keep Password_Manager.exe and the created passwords.enc file in the same folder for proper functionality.
 
 ## 🔐 How It Works
 
