@@ -55,7 +55,7 @@ To create a standalone Windows executable of the application:
 > **Note:**  
 > - Use `--windowed` to hide the terminal window (recommended for GUI apps).  
 > - If your script depends on other files (like icons or `.ui` files), you may need to bundle them manually or adjust the `pyinstaller` command.
-```
+
 
 ---
 
