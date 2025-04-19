@@ -61,9 +61,8 @@ To create a standalone Windows executable of the application:
 
 ## 🔐 How It Works
 
-- Stores passwords in a local SQLite database (`passwords.enc`).
+- Stores passwords in a local database (`passwords.enc`).
 - Each entry includes a website, username, and password.
-- The password generator creates a secure password using letters, digits, and symbols.
 
 ## 📁 Files
 
