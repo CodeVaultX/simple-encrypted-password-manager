@@ -1,4 +1,3 @@
-```markdown
 # Password Manager
 
 A simple desktop application to store, manage, and generate passwords securely. Built with Python and PyQt6, and backed by a local SQLite database.
