@@ -62,11 +62,12 @@ To create a standalone Windows executable of the application:
 
 If you don’t want to build the executable yourself, a pre-built Windows version is available:
 
-➡️ Download Password_Manager.exe
+
+➡️ Download [Password_Manager.exe](https://github.com/CodeVaultX/simple-encrypted-password-manager/blob/main/Password_Manager.exe).
 
 Simply download and run the .exe file — no installation or Python required.
 
-⚠️ Note: Make sure to keep Password_Manager.exe and the created passwords.enc file in the same folder for proper functionality.
+    ⚠️ Note: Make sure to keep Password_Manager.exe and the created passwords.enc file in the same folder for proper functionality.
 
 ## 🔐 How It Works
 
@@ -90,4 +91,4 @@ This application uses AES encryption via the cryptography library to securely st
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/CodeVaultX/simple-encrypted-password-manager/blob/main/LICENSE).
