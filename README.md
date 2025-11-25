@@ -56,7 +56,7 @@ To create a standalone Windows executable of the application:
 If you don’t want to build the executable yourself, a pre-built Windows version is available:
 
 
-➡️ Download [Password_Manager.exe](https://github.com/CodeVaultX/simple-encrypted-password-manager/blob/main/Password_Manager.exe).
+➡️ Download [Password_Manager.exe]((https://github.com/CodeVaultX/simple-encrypted-password-manager/releases/download/v1.0/Password_Manager.exe)).
 
 Simply download and run the .exe file — no installation or Python required.
 
